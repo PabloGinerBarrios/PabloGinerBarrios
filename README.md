@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pablo-giner-barrios/">Pablo Giner</a>👋</h1>
 </div>
-<img src="./img/banner_recortado_titulo.png"/>
+<img src="./img/banner_recortado_titulo_SUBTITULO.png"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/pablo-giner-barrios/">
     <img src="https://img.shields.io/badge/Linkedin-Pablo_Giner-blue" alt="Linkedin Badge">
