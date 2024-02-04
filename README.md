@@ -1,7 +1,11 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pablo-giner-barrios/">Pablo Giner</a>👋</h1>
 </div>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/pablo-giner-barrios/">
+    <img src="https://img.shields.io/badge/Linkedin-Pablo_Giner-blue" alt="Linkedin Badge">
+  </a>
+</div>
 <!--
 **PabloGinerBarrios/PabloGinerBarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
