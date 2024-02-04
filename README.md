@@ -1,6 +1,3 @@
-<div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pablo-giner-barrios/">Pablo Giner</a>👋</h1>
-</div>
 <img src="./img/banner_recortado_SUBTITTULO.png"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/pablo-giner-barrios/">
