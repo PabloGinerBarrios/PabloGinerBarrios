@@ -1,5 +1,5 @@
 <div align="center">
-### Hi, I'm <a href="https://www.linkedin.com/in/pablo-giner-barrios/"> Pablo Giner</a> 👋
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pablo-giner-barrios/">Pablo Giner</a>👋</h1>
 </div>
 
 <!--
