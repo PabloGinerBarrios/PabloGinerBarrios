@@ -5,11 +5,11 @@
   </a>
 </div>
 
-## Sobre mí:
+## About me:
 
 -  DAM Student looking for Internship.
 
-## Tecnologías que conozco:
+## Languajes I know:
 
 - ![Python Badge](https://img.shields.io/badge/Python-blue)
 - ![Java Badge](https://img.shields.io/badge/Java-brown)
