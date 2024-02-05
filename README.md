@@ -11,7 +11,11 @@
 
 ## Tecnologías que conozco:
 
-
+- ![Python Badge](https://img.shields.io/badge/Python-blue)
+- ![Java Badge](https://img.shields.io/badge/Java-brown)
+- ![Java Badge](https://img.shields.io/badge/CSS-orange)
+- ![Java Badge](https://img.shields.io/badge/Kotlin-green)
+- ![Java Badge]((https://img.shields.io/badge/c%23-purple))
 
 <!--
 **PabloGinerBarrios/PabloGinerBarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
